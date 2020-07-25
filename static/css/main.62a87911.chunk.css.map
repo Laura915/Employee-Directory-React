@@ -1,0 +1,1 @@
+{"version":3,"sources":["Header.css"],"names":[],"mappings":"AAAA,QACI,YAAa,CACb,qBAAsB,CACtB,cAAe,CACf,iBACJ","file":"main.62a87911.chunk.css","sourcesContent":[".navbar{\n    display: flex;\n    flex-direction: column;\n    flex-wrap: wrap;\n    text-align: center;\n}"]}

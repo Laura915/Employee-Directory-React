@@ -1,0 +1,450 @@
+[
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Steve",
+            "last": "Perez"
+        },
+        "location": {
+            "street": {
+                "number": 4486,
+                "name": "Daisy Dr"
+            },
+            "city": "Bellevue",
+            "state": "Maine",
+            "country": "United States",
+            "postcode": 10699,
+            "coordinates": {
+                "latitude": "48.8898",
+                "longitude": "-90.3734"
+            },
+            "timezone": {
+                "offset": "-7:00",
+                "description": "Mountain Time (US & Canada)"
+            }
+        },
+        "email": "steve.perez@example.com",
+        "login": {
+            "uuid": "eb372150-9e0d-45d4-bfd2-393079fb7e3c",
+            "username": "tinydog316",
+            "password": "weekend",
+            "salt": "J3cYtYsC",
+            "md5": "2d557cd10ef327a4b64529b9aa0b175b",
+            "sha1": "9bd5371bf508005e4acb11b23f8a979f947ea2f5",
+            "sha256": "848bbc91027876224a0e70e88a287253bb04fa989b4544bd4fc56b8e8d0663b4"
+        },
+        "dob": {
+            "date": "1977-10-12T22:18:24.424Z",
+            "age": 43
+        },
+        "registered": {
+            "date": "2006-01-13T06:57:43.925Z",
+            "age": 14
+        },
+        "phone": "(459)-748-2839",
+        "cell": "(161)-773-2533",
+        "id": {
+            "name": "SSN",
+            "value": "988-17-8495"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/6.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/6.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/6.jpg"
+        },
+        "nat": "US"
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Mrs",
+            "first": "Susan",
+            "last": "Lewis"
+        },
+        "location": {
+            "street": {
+                "number": 1346,
+                "name": "W Dallas St"
+            },
+            "city": "Murfreesboro",
+            "state": "Nebraska",
+            "country": "United States",
+            "postcode": 79132,
+            "coordinates": {
+                "latitude": "-29.1914",
+                "longitude": "154.6077"
+            },
+            "timezone": {
+                "offset": "+10:00",
+                "description": "Eastern Australia, Guam, Vladivostok"
+            }
+        },
+        "email": "susan.lewis@example.com",
+        "login": {
+            "uuid": "3a2bc648-44fd-4d2b-97e8-1de86f2e98cc",
+            "username": "greenduck357",
+            "password": "aggies",
+            "salt": "Y3imYvnd",
+            "md5": "5c5177f750aeb3d47cac7a70c5788f5d",
+            "sha1": "e3e10254e4e3d46fb0885029e9d43a3d3dd31dde",
+            "sha256": "8d1b2efeb0f98a276dae9162fef2360188e11b99244a4e50873f00d0c6b41c41"
+        },
+        "dob": {
+            "date": "1980-06-15T07:11:00.871Z",
+            "age": 40
+        },
+        "registered": {
+            "date": "2008-07-01T13:09:54.823Z",
+            "age": 12
+        },
+        "phone": "(401)-777-2848",
+        "cell": "(363)-187-9088",
+        "id": {
+            "name": "SSN",
+            "value": "906-60-9201"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/5.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
+        },
+        "nat": "US"
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Mrs",
+            "first": "Debbie",
+            "last": "Austin"
+        },
+        "location": {
+            "street": {
+                "number": 8252,
+                "name": "Robinson Rd"
+            },
+            "city": "Hartford",
+            "state": "Minnesota",
+            "country": "United States",
+            "postcode": 66983,
+            "coordinates": {
+                "latitude": "67.4714",
+                "longitude": "-128.3712"
+            },
+            "timezone": {
+                "offset": "-3:00",
+                "description": "Brazil, Buenos Aires, Georgetown"
+            }
+        },
+        "email": "debbie.austin@example.com",
+        "login": {
+            "uuid": "3c530153-4a50-4702-bbb3-d7d5b52cbe0e",
+            "username": "blueelephant421",
+            "password": "march",
+            "salt": "kFfOUbU2",
+            "md5": "139690a7d48fe97612c09c7153c940e1",
+            "sha1": "18c37ce62938ee952103a0c158d4db9b520a1794",
+            "sha256": "0c97e89fb914e357caae3518f181d2f7d150153eb2573d25e596c0ab725569f3"
+        },
+        "dob": {
+            "date": "1949-02-11T06:27:31.086Z",
+            "age": 71
+        },
+        "registered": {
+            "date": "2007-02-20T21:44:17.852Z",
+            "age": 13
+        },
+        "phone": "(743)-987-7150",
+        "cell": "(393)-152-7703",
+        "id": {
+            "name": "SSN",
+            "value": "322-08-8248"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/44.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+        },
+        "nat": "US"
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Mrs",
+            "first": "Madison",
+            "last": "Elliott"
+        },
+        "location": {
+            "street": {
+                "number": 9390,
+                "name": "Spring Hill Rd"
+            },
+            "city": "Santa Maria",
+            "state": "Nebraska",
+            "country": "United States",
+            "postcode": 99074,
+            "coordinates": {
+                "latitude": "65.8891",
+                "longitude": "149.1317"
+            },
+            "timezone": {
+                "offset": "-8:00",
+                "description": "Pacific Time (US & Canada)"
+            }
+        },
+        "email": "madison.elliott@example.com",
+        "login": {
+            "uuid": "0aa0f312-7d30-475d-b67a-281ac0cd9335",
+            "username": "tinygoose508",
+            "password": "water",
+            "salt": "V5DLwI1L",
+            "md5": "e25227e1e634d1b3edb959b926d304da",
+            "sha1": "367e89822882abbd8f34cfbb749f06135b828c3a",
+            "sha256": "b831a7bf636797d497b7a1d1e79439a0d3b5f21543db4b6e9dd989f5ef32dee7"
+        },
+        "dob": {
+            "date": "1980-08-14T23:14:49.812Z",
+            "age": 40
+        },
+        "registered": {
+            "date": "2012-08-22T15:20:00.693Z",
+            "age": 8
+        },
+        "phone": "(648)-138-8161",
+        "cell": "(791)-739-1588",
+        "id": {
+            "name": "SSN",
+            "value": "302-67-8756"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/37.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/37.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/37.jpg"
+        },
+        "nat": "US"
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Freddie",
+            "last": "Horton"
+        },
+        "location": {
+            "street": {
+                "number": 5231,
+                "name": "Nowlin Rd"
+            },
+            "city": "Hartford",
+            "state": "Pennsylvania",
+            "country": "United States",
+            "postcode": 54061,
+            "coordinates": {
+                "latitude": "-75.1464",
+                "longitude": "-78.8442"
+            },
+            "timezone": {
+                "offset": "-3:00",
+                "description": "Brazil, Buenos Aires, Georgetown"
+            }
+        },
+        "email": "freddie.horton@example.com",
+        "login": {
+            "uuid": "7c75eebc-2904-4f52-84bc-054330de47d9",
+            "username": "ticklishbutterfly671",
+            "password": "caesar",
+            "salt": "Fup9ppBR",
+            "md5": "c2981f394a745069e67167b4ab0ccb1b",
+            "sha1": "b106177cc470eb1c6502c4320841f7a0c38c5dab",
+            "sha256": "2f50d065dab575268287ff22dfac7dc91aa85662ba0e793867ef79ba27c50a43"
+        },
+        "dob": {
+            "date": "1973-09-20T10:01:16.681Z",
+            "age": 47
+        },
+        "registered": {
+            "date": "2009-05-02T05:13:21.348Z",
+            "age": 11
+        },
+        "phone": "(473)-731-6375",
+        "cell": "(290)-424-0118",
+        "id": {
+            "name": "SSN",
+            "value": "601-89-5759"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/79.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/79.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
+        },
+        "nat": "US"
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Robert",
+            "last": "Fuller"
+        },
+        "location": {
+            "street": {
+                "number": 9720,
+                "name": "Hickory Creek Dr"
+            },
+            "city": "Anchorage",
+            "state": "Alabama",
+            "country": "United States",
+            "postcode": 53945,
+            "coordinates": {
+                "latitude": "4.9615",
+                "longitude": "47.2637"
+            },
+            "timezone": {
+                "offset": "+5:00",
+                "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+            }
+        },
+        "email": "robert.fuller@example.com",
+        "login": {
+            "uuid": "382fcc8f-ce79-459d-9fd5-7a96a6e25cc3",
+            "username": "crazysnake550",
+            "password": "paris1",
+            "salt": "rwVbhLbd",
+            "md5": "18fe5b1cd32d149a5740a08c10a2100b",
+            "sha1": "65af41d8aa0aa3a2fd3f8bfbca1ad62db74c8d1d",
+            "sha256": "d5d72c940febcf9a5ccad9d7a2c018710b299b8cf54193680a7a0ec3875961ef"
+        },
+        "dob": {
+            "date": "1970-11-11T13:51:22.359Z",
+            "age": 50
+        },
+        "registered": {
+            "date": "2002-12-30T10:04:15.572Z",
+            "age": 18
+        },
+        "phone": "(853)-023-8187",
+        "cell": "(738)-960-2594",
+        "id": {
+            "name": "SSN",
+            "value": "699-85-5632"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/52.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
+        },
+        "nat": "US"
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Jayden",
+            "last": "Rogers"
+        },
+        "location": {
+            "street": {
+                "number": 1689,
+                "name": "Lovers Ln"
+            },
+            "city": "Chesapeake",
+            "state": "Nebraska",
+            "country": "United States",
+            "postcode": 74267,
+            "coordinates": {
+                "latitude": "24.5946",
+                "longitude": "-140.3506"
+            },
+            "timezone": {
+                "offset": "+11:00",
+                "description": "Magadan, Solomon Islands, New Caledonia"
+            }
+        },
+        "email": "jayden.rogers@example.com",
+        "login": {
+            "uuid": "ce2c6e29-ed41-439b-9c8b-91565886c785",
+            "username": "brownostrich100",
+            "password": "mischief",
+            "salt": "vnrQFBya",
+            "md5": "421d055f7ad22f001b073eb514a684f6",
+            "sha1": "45364f1c2acb1801a0a71af9f13e371ebd1ee0cc",
+            "sha256": "e459067e3508fac39db55ee7efd89e7b321b4c672666abc3b6db5eaa3a989fd7"
+        },
+        "dob": {
+            "date": "1997-05-09T14:59:00.233Z",
+            "age": 23
+        },
+        "registered": {
+            "date": "2013-04-09T13:41:25.900Z",
+            "age": 7
+        },
+        "phone": "(124)-552-2037",
+        "cell": "(882)-491-8588",
+        "id": {
+            "name": "SSN",
+            "value": "660-36-9869"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/37.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
+        },
+        "nat": "US"
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Miss",
+            "first": "Danielle",
+            "last": "Ramirez"
+        },
+        "location": {
+            "street": {
+                "number": 5297,
+                "name": "Crockett St"
+            },
+            "city": "West Jordan",
+            "state": "Oklahoma",
+            "country": "United States",
+            "postcode": 72672,
+            "coordinates": {
+                "latitude": "-45.8411",
+                "longitude": "169.1809"
+            },
+            "timezone": {
+                "offset": "+9:00",
+                "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+            }
+        },
+        "email": "danielle.ramirez@example.com",
+        "login": {
+            "uuid": "437b3d1a-86c7-4b5b-a2a5-b84e0737023c",
+            "username": "bluekoala977",
+            "password": "typhoon",
+            "salt": "UYqyqS0I",
+            "md5": "16be25cfabad8cb2291616dbddcc0cd5",
+            "sha1": "031a1f93b12dd771cddeed16e83581083067198a",
+            "sha256": "3af0664ccf27c05eedec385fb5aff4099e541b04634e688d49e4f33c642e8dac"
+        },
+        "dob": {
+            "date": "1951-07-16T05:24:55.732Z",
+            "age": 69
+        },
+        "registered": {
+            "date": "2013-10-18T11:28:22.979Z",
+            "age": 7
+        },
+        "phone": "(213)-761-8286",
+        "cell": "(184)-507-9359",
+        "id": {
+            "name": "SSN",
+            "value": "755-44-8363"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/46.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/46.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
+        },
+        "nat": "US"
+    }
+]
